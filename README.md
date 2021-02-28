@@ -1,2 +1,0 @@
-# nextjs-blog
-nextjs tutorial
